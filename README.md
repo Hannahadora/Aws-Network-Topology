@@ -18,7 +18,17 @@ aws_eip: This resource creates an Elastic IP (EIP) address, which is a static pu
 
 Each resource plays a specific role in defining the network topology and connectivity within your AWS infrastructure. They work together to create a VPC with public and private subnets, establish internet connectivity, and control the flow of traffic between different subnets.
 
+
+FIG 1: Created with AWS console
+
 ![image](https://github.com/Hannahadora/Aws-Network-Topology/assets/68153712/45b13a5c-9ab8-4ddf-a5c4-bf1797ff9efa)
+
+
+FIG 2: Created with Terraform (IAC)
+
+![image](https://github.com/Hannahadora/Aws-Network-Topology/assets/68153712/4e97acb9-ef34-476e-b844-f8ece3b990ea)
+
+
 
 
 
